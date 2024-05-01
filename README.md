@@ -2,13 +2,12 @@
 Data analysis of Fire, Traffic, and EMS 911 calls for Montgomery County, PA: https://www.kaggle.com/datasets/mchirico/montcoalert
 
 Values in the dataset represent the below:
-
 * lat: Latitude
 * lng: Longitude
-* desc: Description of the Emergency Call
+* desc: Description of the emergency call.
 * zip: Zipcode
-* title: Title/Category
-* timeStamp: YYYY-MM-DD HH:MM:SS
+* title: Title/Category of the call.
+* timeStamp: When the call is made (YYYY-MM-DD HH:MM:SS)
 * twp: Township
 * addr: Address
 * e: Dummy variable (always 1)
